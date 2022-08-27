@@ -7,5 +7,6 @@ public class gitcontroller {
         System.out.println("hello gitHub1!");
         System.out.println("hello gitHub2!");
         System.out.println("master test!");
+        System.out.println("hot-fix test!");
     }
 }
